@@ -10,7 +10,7 @@ I'm passionate about learning, building, and improving my skills in Ai and Anali
 ## 🚀 About Me
 
 - 💻 Up and comping Software Developer
-- 📚 Currently learning: [Code engineering]
+- 📚 Currently learning: [Coding in Python]
 - 🌱 Always exploring new technologies and best practices
 - 🎯 Goal: Become a sports aynalst 
 - 📚 Currently learning: [Code engineering]
