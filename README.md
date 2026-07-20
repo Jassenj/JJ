@@ -19,7 +19,7 @@ I'm passionate about learning, building, and improving my skills in Ai and Anali
 ---
 Connect with me
 
-- GitHub: https://github.com/JJ
+- GitHub: https://github.com/JassenJ
 - Email: Jordanj30@stcva.org
 
 ---
